@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ajioWebsite/static/css/main.cda87029.css",
-    "main.js": "/ajioWebsite/static/js/main.1338614b.js",
+    "main.js": "/ajioWebsite/static/js/main.6e1405dc.js",
     "static/media/sc.gif": "/ajioWebsite/static/media/sc.ae198476a5c6b91c18ed.gif",
     "static/media/nx.jpg": "/ajioWebsite/static/media/nx.dc79ca90974a72939829.jpg",
     "static/media/yellow.jpg": "/ajioWebsite/static/media/yellow.27df7099e82a75291ca1.jpg",
@@ -36,10 +36,10 @@
     "static/media/rohit.jpg": "/ajioWebsite/static/media/rohit.0e0770be2619a0e0ce60.jpg",
     "index.html": "/ajioWebsite/index.html",
     "main.cda87029.css.map": "/ajioWebsite/static/css/main.cda87029.css.map",
-    "main.1338614b.js.map": "/ajioWebsite/static/js/main.1338614b.js.map"
+    "main.6e1405dc.js.map": "/ajioWebsite/static/js/main.6e1405dc.js.map"
   },
   "entrypoints": [
     "static/css/main.cda87029.css",
-    "static/js/main.1338614b.js"
+    "static/js/main.6e1405dc.js"
   ]
 }
