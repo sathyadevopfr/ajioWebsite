@@ -1,0 +1,36 @@
+{
+  "wishItems": [
+    {
+      "id": "43d6",
+      "title": "Mens Cotton Jacket",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "price": 55.99,
+      "rating": {}
+    },
+    {
+      "id": "36c9",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "price": 695,
+      "rating": {}
+    },
+    {
+      "id": "a3d0",
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "price": 56.99,
+      "rating": {}
+    },
+    {
+      "id": "0319",
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "price": 56.99,
+      "rating": {}
+    }
+  ]
+}

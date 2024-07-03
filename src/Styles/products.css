@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.hea{
+    text-align: center;
+     padding-top: 120px;
+     font-weight:normal;
+     color: rgba(0, 0, 0, 0.655);
+}
+#prod-main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+    overflow-y:initial;
+    overflow-x: hidden;
+    margin-top: 30px;
+    }
+.mak-ali{
+padding: 20px;
+width: 300px;
+border: 0px solid;
+padding: 15px 15px 9px 15px;
+margin-top: 30px;
+/* box-shadow: 1px 1px 1px 1px  #2c4152; */
+text-align: center;
+}
+.mak-ali img{
+    width: 100%;
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    border: 3px solid#dbd9d9;
+    /* padding-bottom:15px; */
+}
+.mak-ali p,h4{
+  padding: 3px;
+}
+.green{
+    display: inline;
+    padding:3px 7px 3px 7px ;
+    background: #28a745;
+    color: white;
+}
+.spa{
+    display: block;
+   
+    justify-content: space-evenly;
+    }
+    .spa button{
+        padding: 4px 8px 4px 8px;
+        border-radius: 7px;
+        margin-left: 30px;
+      
+    }
+    .spa button .b2{
+        margin-left: 30px;  
+        border: none;
+        background: #fd7e14;
+    }

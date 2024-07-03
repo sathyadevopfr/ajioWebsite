@@ -1,0 +1,27 @@
+.dow{
+   justify-content: space-evenly;
+    padding-left: 20px;
+    color: #fff;
+    padding-top: 30px;
+}
+.sma{
+height: 40px;
+width: 150px;
+ /* justify-content: space-evenly; */
+ color: #fff;
+}
+.liner{
+    border-top: 1px solid #fff;
+    margin-left: 70px;
+    margin-right:70px ;
+    
+}
+.liner h4{
+    padding-top: 20px;
+    color: #fff;
+    margin-left: 100px;
+   
+}
+#ftmain{
+    padding-bottom: 50px;
+}

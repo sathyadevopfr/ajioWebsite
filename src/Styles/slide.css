@@ -1,0 +1,13 @@
+.flow{
+    
+    cursor: pointer;
+}
+.flo{
+    flex-direction: row;
+    overflow-x: visible;
+    padding-left: 25px;
+}
+.slide-main{
+    padding-top: 107px;
+   padding-bottom: 10px;
+}

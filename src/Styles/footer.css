@@ -1,0 +1,36 @@
+#fle{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+   
+}
+#ftmain{
+    background:#2c4152;
+    border: 0px solid;
+    width: 100vw;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+#fle{
+     padding-bottom: 15px;
+}
+.conte ul li{
+   color: #fff;
+    padding-top: 10px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: lighter;
+    line-height: 1.5;
+    
+    }
+    li{
+       padding-top: 5px;  
+        line-height: 2px;
+    }
+.conte ul li:hover{
+    text-decoration: underline;
+}
+.conte h4{
+    color: #fff;
+}
+

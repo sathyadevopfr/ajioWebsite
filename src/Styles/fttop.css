@@ -1,0 +1,28 @@
+li img{
+    height: 66px;
+    width: auto;
+    margin-left: 28px;
+    color: #fff;
+}
+#ain ul{
+
+    display: flex;
+    justify-content: space-evenly;
+}
+*{
+    list-style: none;
+}
+.he{
+    height: 65px;
+    width: auto; 
+    /* text-align: center; */
+     margin-left: 28px;
+
+}
+#ain{
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+#ain h5{
+    padding-top: 14px;
+}
